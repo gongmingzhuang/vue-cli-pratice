@@ -1,0 +1,36 @@
+{
+  "name": "vue-cli-pratice",
+  "version": "1.0.0",
+  "description": "vue-cli pratice ",
+  "main": "index.js",
+  "bin": {
+    "es": "bin/es",
+    "es-add": "bin/es-add",
+    "es-delete": "bin/es-delete",
+    "es-list": "bin/es-list",
+    "es-init": "bin/es-init"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongmingzhuang/vue-cli-pratice.git"
+  },
+  "keywords": [
+    "vue-cli",
+    "pratice"
+  ],
+  "author": "gongmingzhuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gongmingzhuang/vue-cli-pratice/issues"
+  },
+  "homepage": "https://github.com/gongmingzhuang/vue-cli-pratice#readme",
+  "devDependencies": {
+    "download-git-repo": "^3.0.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
