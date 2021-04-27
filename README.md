@@ -21,22 +21,22 @@ vue-cli 练习
 # 2.文件系统
 
 - bin - 脚手架入口文件
-  |-es
-  |-es-add
-  |-es-del
-  |-es-list
-  |-es-init
+-  |-es
+-  |-es-add
+-  |-es-del
+-  |-es-list
+-  |-es-init
 
 
 # 3.使用
 ## 添加模板
 > es add 
-请输入模板名称：
-请输入模板地址：
+- 请输入模板名称：
+- 请输入模板地址：
 
 ## 删除模板
 > es delete
-请输入要删除的模板名称:
+- 请输入要删除的模板名称:
 
 ## 查看已添加模板
 > es list

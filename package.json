@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-pratice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue-cli pratice ",
   "main": "index.js",
   "bin": {
@@ -28,7 +28,9 @@
   },
   "homepage": "https://github.com/gongmingzhuang/vue-cli-pratice#readme",
   "devDependencies": {
-    "download-git-repo": "^3.0.2"
+    "download-git-repo": "^3.0.2",
+    "gulp": "^4.0.2",
+    "gulp-bump": "^3.2.0"
   },
   "dependencies": {
     "handlebars": "^4.7.7"
